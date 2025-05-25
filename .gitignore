@@ -2,4 +2,5 @@
 .mypy_cache
 .env
 .ruff_cache
+.venv-agent
 __pycache__
